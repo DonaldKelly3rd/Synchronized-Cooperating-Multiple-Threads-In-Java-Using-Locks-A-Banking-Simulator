@@ -1,0 +1,418 @@
+Agent WT8 withdraws $84  (-) Balance is $0.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent DT2 deposits $139   (+) Balance is $139.0 (Transaction ID: 1)
+Agent DT5 deposits $264   (+) Balance is $403.0 (Transaction ID: 2)
+Agent WT2 withdraws $16  (-) Balance is $387.0 (Transaction ID: 3)
+Agent WT1 withdraws $62  (-) Balance is $325.0 (Transaction ID: 4)
+Agent WT4 withdraws $75  (-) Balance is $250.0 (Transaction ID: 5)
+Agent WT5 withdraws $34  (-) Balance is $216.0 (Transaction ID: 6)
+Agent WT3 withdraws $11  (-) Balance is $205.0 (Transaction ID: 7)
+Agent DT3 deposits $360   (+) Balance is $565.0 (Transaction ID: 8)
+*** Flagged Transaction - Deposit by DT3 in excess of $360 USD
+Agent WT6 withdraws $46  (-) Balance is $519.0 (Transaction ID: 9)
+Agent DT1 deposits $289   (+) Balance is $808.0 (Transaction ID: 10)
+Agent WT7 withdraws $2  (-) Balance is $806.0 (Transaction ID: 11)
+Agent DT4 deposits $254   (+) Balance is $1060.0 (Transaction ID: 12)
+Agent WT9 withdraws $39  (-) Balance is $1021.0 (Transaction ID: 13)
+Agent WT10 withdraws $85  (-) Balance is $936.0 (Transaction ID: 14)
+*** Flagged Transaction - Withdrawal by WT10 in excess of $85 USD
+Agent WT10 withdraws $44  (-) Balance is $892.0 (Transaction ID: 15)
+Agent WT4 withdraws $49  (-) Balance is $843.0 (Transaction ID: 16)
+Agent WT9 withdraws $47  (-) Balance is $796.0 (Transaction ID: 17)
+Agent WT1 withdraws $39  (-) Balance is $757.0 (Transaction ID: 18)
+Agent WT10 withdraws $33  (-) Balance is $724.0 (Transaction ID: 19)
+Agent WT6 withdraws $64  (-) Balance is $660.0 (Transaction ID: 20)
+Agent WT2 withdraws $89  (-) Balance is $571.0 (Transaction ID: 21)
+*** Flagged Transaction - Withdrawal by WT2 in excess of $89 USD
+Agent WT7 withdraws $77  (-) Balance is $494.0 (Transaction ID: 22)
+*** Flagged Transaction - Withdrawal by WT7 in excess of $77 USD
+Agent WT1 withdraws $47  (-) Balance is $447.0 (Transaction ID: 23)
+Agent WT1 withdraws $13  (-) Balance is $434.0 (Transaction ID: 24)
+Agent WT7 withdraws $12  (-) Balance is $422.0 (Transaction ID: 25)
+Agent WT2 withdraws $30  (-) Balance is $392.0 (Transaction ID: 26)
+Agent WT7 withdraws $20  (-) Balance is $372.0 (Transaction ID: 27)
+Agent WT6 withdraws $91  (-) Balance is $281.0 (Transaction ID: 28)
+*** Flagged Transaction - Withdrawal by WT6 in excess of $91 USD
+Agent WT5 withdraws $37  (-) Balance is $244.0 (Transaction ID: 29)
+Agent WT3 withdraws $45  (-) Balance is $199.0 (Transaction ID: 30)
+Agent WT8 withdraws $94  (-) Balance is $105.0 (Transaction ID: 31)
+*** Flagged Transaction - Withdrawal by WT8 in excess of $94 USD
+Agent WT1 withdraws $17  (-) Balance is $88.0 (Transaction ID: 32)
+Agent DT1 deposits $456   (+) Balance is $544.0 (Transaction ID: 33)
+*** Flagged Transaction - Deposit by DT1 in excess of $456 USD
+Agent WT4 withdraws $45  (-) Balance is $499.0 (Transaction ID: 34)
+Agent WT7 withdraws $83  (-) Balance is $416.0 (Transaction ID: 35)
+*** Flagged Transaction - Withdrawal by WT7 in excess of $83 USD
+Agent WT9 withdraws $18  (-) Balance is $398.0 (Transaction ID: 36)
+Agent WT10 withdraws $32  (-) Balance is $366.0 (Transaction ID: 37)
+Agent WT5 withdraws $50  (-) Balance is $316.0 (Transaction ID: 38)
+Agent WT4 withdraws $48  (-) Balance is $268.0 (Transaction ID: 39)
+Agent WT2 withdraws $30  (-) Balance is $238.0 (Transaction ID: 40)
+Agent WT8 withdraws $53  (-) Balance is $185.0 (Transaction ID: 41)
+Agent WT4 withdraws $55  (-) Balance is $130.0 (Transaction ID: 42)
+Agent WT1 withdraws $3  (-) Balance is $127.0 (Transaction ID: 43)
+Agent WT6 withdraws $99  (-) Balance is $28.0 (Transaction ID: 44)
+*** Flagged Transaction - Withdrawal by WT6 in excess of $99 USD
+Agent WT9 withdraws $49  (-) Balance is $28.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT7 withdraws $45  (-) Balance is $28.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT3 withdraws $95  (-) Balance is $28.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT9 withdraws $47  (-) Balance is $28.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT10 withdraws $45  (-) Balance is $28.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent DT3 deposits $103   (+) Balance is $131.0 (Transaction ID: 45)
+Agent WT9 withdraws $56  (-) Balance is $75.0 (Transaction ID: 46)
+Agent WT7 withdraws $75  (-) Balance is $0.0 (Transaction ID: 47)
+Agent WT2 withdraws $69  (-) Balance is $0.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT10 withdraws $92  (-) Balance is $0.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent DT4 deposits $2   (+) Balance is $2.0 (Transaction ID: 48)
+Agent WT8 withdraws $92  (-) Balance is $2.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent DT2 deposits $222   (+) Balance is $224.0 (Transaction ID: 49)
+Agent WT10 withdraws $82  (-) Balance is $142.0 (Transaction ID: 50)
+*** Flagged Transaction - Withdrawal by WT10 in excess of $82 USD
+Agent WT5 withdraws $29  (-) Balance is $113.0 (Transaction ID: 51)
+Agent WT3 withdraws $18  (-) Balance is $95.0 (Transaction ID: 52)
+Agent WT6 withdraws $53  (-) Balance is $42.0 (Transaction ID: 53)
+Agent WT7 withdraws $72  (-) Balance is $42.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT7 withdraws $84  (-) Balance is $42.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT8 withdraws $92  (-) Balance is $42.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT4 withdraws $18  (-) Balance is $24.0 (Transaction ID: 54)
+Agent WT5 withdraws $84  (-) Balance is $24.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT1 withdraws $82  (-) Balance is $24.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT2 withdraws $11  (-) Balance is $13.0 (Transaction ID: 55)
+Agent WT9 withdraws $58  (-) Balance is $13.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent DT5 deposits $182   (+) Balance is $195.0 (Transaction ID: 56)
+Agent WT4 withdraws $72  (-) Balance is $123.0 (Transaction ID: 57)
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $123.0   Number of transactions since last Internal audit is: 57
+*************************************************************************************************************
+Agent WT2 withdraws $62  (-) Balance is $61.0 (Transaction ID: 58)
+Agent WT9 withdraws $90  (-) Balance is $61.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT10 withdraws $76  (-) Balance is $61.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT4 withdraws $86  (-) Balance is $61.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT3 withdraws $50  (-) Balance is $11.0 (Transaction ID: 59)
+Agent WT2 withdraws $21  (-) Balance is $11.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT9 withdraws $27  (-) Balance is $11.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent DT1 deposits $75   (+) Balance is $86.0 (Transaction ID: 60)
+Agent WT8 withdraws $50  (-) Balance is $36.0 (Transaction ID: 61)
+Agent WT6 withdraws $6  (-) Balance is $30.0 (Transaction ID: 62)
+Agent WT8 withdraws $50  (-) Balance is $30.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT5 withdraws $60  (-) Balance is $30.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT7 withdraws $59  (-) Balance is $30.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT2 withdraws $37  (-) Balance is $30.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT1 withdraws $34  (-) Balance is $30.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT7 withdraws $3  (-) Balance is $27.0 (Transaction ID: 63)
+Agent WT4 withdraws $19  (-) Balance is $8.0 (Transaction ID: 64)
+Agent WT9 withdraws $99  (-) Balance is $8.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT7 withdraws $30  (-) Balance is $8.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT6 withdraws $11  (-) Balance is $8.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT10 withdraws $1  (-) Balance is $7.0 (Transaction ID: 65)
+Agent WT5 withdraws $51  (-) Balance is $7.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT3 withdraws $24  (-) Balance is $7.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent DT5 deposits $24   (+) Balance is $31.0 (Transaction ID: 66)
+Agent WT2 withdraws $19  (-) Balance is $12.0 (Transaction ID: 67)
+Agent WT1 withdraws $27  (-) Balance is $12.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT3 withdraws $81  (-) Balance is $12.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT8 withdraws $76  (-) Balance is $12.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT7 withdraws $64  (-) Balance is $12.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT10 withdraws $91  (-) Balance is $12.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT4 withdraws $70  (-) Balance is $12.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT7 withdraws $4  (-) Balance is $8.0 (Transaction ID: 68)
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $8.0   Number of transactions since last Internal audit is: 11
+*************************************************************************************************************
+Agent DT3 deposits $253   (+) Balance is $261.0 (Transaction ID: 69)
+Agent WT3 withdraws $62  (-) Balance is $199.0 (Transaction ID: 70)
+Agent WT1 withdraws $32  (-) Balance is $167.0 (Transaction ID: 71)
+Agent WT3 withdraws $58  (-) Balance is $109.0 (Transaction ID: 72)
+Agent WT9 withdraws $86  (-) Balance is $23.0 (Transaction ID: 73)
+*** Flagged Transaction - Withdrawal by WT9 in excess of $86 USD
+Agent WT6 withdraws $9  (-) Balance is $14.0 (Transaction ID: 74)
+Agent DT3 deposits $434   (+) Balance is $448.0 (Transaction ID: 75)
+*** Flagged Transaction - Deposit by DT3 in excess of $434 USD
+Agent WT4 withdraws $14  (-) Balance is $434.0 (Transaction ID: 76)
+Agent DT5 deposits $329   (+) Balance is $763.0 (Transaction ID: 77)
+Agent WT6 withdraws $48  (-) Balance is $715.0 (Transaction ID: 78)
+Agent WT7 withdraws $99  (-) Balance is $616.0 (Transaction ID: 79)
+*** Flagged Transaction - Withdrawal by WT7 in excess of $99 USD
+Agent WT6 withdraws $5  (-) Balance is $611.0 (Transaction ID: 80)
+Agent DT2 deposits $379   (+) Balance is $990.0 (Transaction ID: 81)
+*** Flagged Transaction - Deposit by DT2 in excess of $379 USD
+Agent WT10 withdraws $86  (-) Balance is $904.0 (Transaction ID: 82)
+*** Flagged Transaction - Withdrawal by WT10 in excess of $86 USD
+Agent WT1 withdraws $35  (-) Balance is $869.0 (Transaction ID: 83)
+Agent DT4 deposits $202   (+) Balance is $1071.0 (Transaction ID: 84)
+Agent WT3 withdraws $66  (-) Balance is $1005.0 (Transaction ID: 85)
+Agent WT7 withdraws $33  (-) Balance is $972.0 (Transaction ID: 86)
+Agent WT2 withdraws $49  (-) Balance is $923.0 (Transaction ID: 87)
+Agent WT5 withdraws $97  (-) Balance is $826.0 (Transaction ID: 88)
+*** Flagged Transaction - Withdrawal by WT5 in excess of $97 USD
+Agent WT8 withdraws $80  (-) Balance is $746.0 (Transaction ID: 89)
+*** Flagged Transaction - Withdrawal by WT8 in excess of $80 USD
+Agent WT6 withdraws $38  (-) Balance is $708.0 (Transaction ID: 90)
+Agent DT1 deposits $378   (+) Balance is $1086.0 (Transaction ID: 91)
+*** Flagged Transaction - Deposit by DT1 in excess of $378 USD
+Agent WT4 withdraws $28  (-) Balance is $1058.0 (Transaction ID: 92)
+Agent WT9 withdraws $60  (-) Balance is $998.0 (Transaction ID: 93)
+Agent WT2 withdraws $29  (-) Balance is $969.0 (Transaction ID: 94)
+Agent WT10 withdraws $3  (-) Balance is $966.0 (Transaction ID: 95)
+Agent WT5 withdraws $84  (-) Balance is $882.0 (Transaction ID: 96)
+*** Flagged Transaction - Withdrawal by WT5 in excess of $84 USD
+Agent WT1 withdraws $49  (-) Balance is $833.0 (Transaction ID: 97)
+Agent WT7 withdraws $64  (-) Balance is $769.0 (Transaction ID: 98)
+Agent WT2 withdraws $7  (-) Balance is $762.0 (Transaction ID: 99)
+Agent WT3 withdraws $41  (-) Balance is $721.0 (Transaction ID: 100)
+Agent WT8 withdraws $12  (-) Balance is $709.0 (Transaction ID: 101)
+Agent WT3 withdraws $23  (-) Balance is $686.0 (Transaction ID: 102)
+Agent WT1 withdraws $36  (-) Balance is $650.0 (Transaction ID: 103)
+Agent WT4 withdraws $22  (-) Balance is $628.0 (Transaction ID: 104)
+Agent WT9 withdraws $61  (-) Balance is $567.0 (Transaction ID: 105)
+Agent WT10 withdraws $37  (-) Balance is $530.0 (Transaction ID: 106)
+Agent WT2 withdraws $48  (-) Balance is $482.0 (Transaction ID: 107)
+Agent WT6 withdraws $77  (-) Balance is $405.0 (Transaction ID: 108)
+*** Flagged Transaction - Withdrawal by WT6 in excess of $77 USD
+Agent WT6 withdraws $48  (-) Balance is $357.0 (Transaction ID: 109)
+Agent DT4 deposits $88   (+) Balance is $445.0 (Transaction ID: 110)
+Agent WT5 withdraws $71  (-) Balance is $374.0 (Transaction ID: 111)
+Agent WT7 withdraws $19  (-) Balance is $355.0 (Transaction ID: 112)
+Agent DT4 deposits $210   (+) Balance is $565.0 (Transaction ID: 113)
+Agent WT4 withdraws $89  (-) Balance is $476.0 (Transaction ID: 114)
+*** Flagged Transaction - Withdrawal by WT4 in excess of $89 USD
+Agent WT9 withdraws $80  (-) Balance is $396.0 (Transaction ID: 115)
+*** Flagged Transaction - Withdrawal by WT9 in excess of $80 USD
+Agent WT3 withdraws $95  (-) Balance is $301.0 (Transaction ID: 116)
+*** Flagged Transaction - Withdrawal by WT3 in excess of $95 USD
+Agent WT8 withdraws $78  (-) Balance is $223.0 (Transaction ID: 117)
+*** Flagged Transaction - Withdrawal by WT8 in excess of $78 USD
+Agent WT9 withdraws $73  (-) Balance is $150.0 (Transaction ID: 118)
+Agent DT2 deposits $462   (+) Balance is $612.0 (Transaction ID: 119)
+*** Flagged Transaction - Deposit by DT2 in excess of $462 USD
+Agent WT1 withdraws $10  (-) Balance is $602.0 (Transaction ID: 120)
+Agent WT1 withdraws $18  (-) Balance is $584.0 (Transaction ID: 121)
+Agent WT7 withdraws $84  (-) Balance is $500.0 (Transaction ID: 122)
+*** Flagged Transaction - Withdrawal by WT7 in excess of $84 USD
+Agent WT2 withdraws $40  (-) Balance is $460.0 (Transaction ID: 123)
+Agent WT8 withdraws $1  (-) Balance is $459.0 (Transaction ID: 124)
+Agent WT9 withdraws $75  (-) Balance is $384.0 (Transaction ID: 125)
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $384.0   Number of transactions since last Internal audit is: 57
+*************************************************************************************************************
+Agent WT10 withdraws $14  (-) Balance is $370.0 (Transaction ID: 126)
+Agent WT3 withdraws $91  (-) Balance is $279.0 (Transaction ID: 127)
+*** Flagged Transaction - Withdrawal by WT3 in excess of $91 USD
+Agent DT1 deposits $139   (+) Balance is $418.0 (Transaction ID: 128)
+Agent WT6 withdraws $13  (-) Balance is $405.0 (Transaction ID: 129)
+Agent WT10 withdraws $92  (-) Balance is $313.0 (Transaction ID: 130)
+*** Flagged Transaction - Withdrawal by WT10 in excess of $92 USD
+Agent WT2 withdraws $31  (-) Balance is $282.0 (Transaction ID: 131)
+Agent WT2 withdraws $65  (-) Balance is $217.0 (Transaction ID: 132)
+Agent WT5 withdraws $50  (-) Balance is $167.0 (Transaction ID: 133)
+Agent DT5 deposits $218   (+) Balance is $385.0 (Transaction ID: 134)
+Agent WT5 withdraws $56  (-) Balance is $329.0 (Transaction ID: 135)
+Agent WT4 withdraws $58  (-) Balance is $271.0 (Transaction ID: 136)
+Agent DT3 deposits $89   (+) Balance is $360.0 (Transaction ID: 137)
+Agent WT1 withdraws $54  (-) Balance is $306.0 (Transaction ID: 138)
+Agent WT6 withdraws $80  (-) Balance is $226.0 (Transaction ID: 139)
+*** Flagged Transaction - Withdrawal by WT6 in excess of $80 USD
+Agent DT2 deposits $200   (+) Balance is $426.0 (Transaction ID: 140)
+Agent WT8 withdraws $52  (-) Balance is $374.0 (Transaction ID: 141)
+Agent WT7 withdraws $78  (-) Balance is $296.0 (Transaction ID: 142)
+*** Flagged Transaction - Withdrawal by WT7 in excess of $78 USD
+Agent WT4 withdraws $18  (-) Balance is $278.0 (Transaction ID: 143)
+Agent WT1 withdraws $99  (-) Balance is $179.0 (Transaction ID: 144)
+*** Flagged Transaction - Withdrawal by WT1 in excess of $99 USD
+Agent WT9 withdraws $92  (-) Balance is $87.0 (Transaction ID: 145)
+*** Flagged Transaction - Withdrawal by WT9 in excess of $92 USD
+Agent DT4 deposits $447   (+) Balance is $534.0 (Transaction ID: 146)
+*** Flagged Transaction - Deposit by DT4 in excess of $447 USD
+Agent WT6 withdraws $52  (-) Balance is $482.0 (Transaction ID: 147)
+Agent WT1 withdraws $68  (-) Balance is $414.0 (Transaction ID: 148)
+Agent WT10 withdraws $58  (-) Balance is $356.0 (Transaction ID: 149)
+Agent WT5 withdraws $73  (-) Balance is $283.0 (Transaction ID: 150)
+Agent WT8 withdraws $6  (-) Balance is $277.0 (Transaction ID: 151)
+Agent WT2 withdraws $17  (-) Balance is $260.0 (Transaction ID: 152)
+Agent WT3 withdraws $7  (-) Balance is $253.0 (Transaction ID: 153)
+Agent WT6 withdraws $47  (-) Balance is $206.0 (Transaction ID: 154)
+Agent WT6 withdraws $6  (-) Balance is $200.0 (Transaction ID: 155)
+Agent DT4 deposits $94   (+) Balance is $294.0 (Transaction ID: 156)
+Agent DT3 deposits $438   (+) Balance is $732.0 (Transaction ID: 157)
+*** Flagged Transaction - Deposit by DT3 in excess of $438 USD
+Agent WT6 withdraws $42  (-) Balance is $690.0 (Transaction ID: 158)
+Agent DT3 deposits $343   (+) Balance is $1033.0 (Transaction ID: 159)
+Agent WT7 withdraws $93  (-) Balance is $940.0 (Transaction ID: 160)
+*** Flagged Transaction - Withdrawal by WT7 in excess of $93 USD
+Agent WT5 withdraws $76  (-) Balance is $864.0 (Transaction ID: 161)
+*** Flagged Transaction - Withdrawal by WT5 in excess of $76 USD
+Agent WT9 withdraws $17  (-) Balance is $847.0 (Transaction ID: 162)
+Agent WT1 withdraws $27  (-) Balance is $820.0 (Transaction ID: 163)
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $820.0   Number of transactions since last Internal audit is: 38
+*************************************************************************************************************
+Agent DT2 deposits $162   (+) Balance is $982.0 (Transaction ID: 164)
+Agent WT6 withdraws $43  (-) Balance is $939.0 (Transaction ID: 165)
+Agent WT4 withdraws $82  (-) Balance is $857.0 (Transaction ID: 166)
+*** Flagged Transaction - Withdrawal by WT4 in excess of $82 USD
+Agent DT5 deposits $42   (+) Balance is $899.0 (Transaction ID: 167)
+Agent WT8 withdraws $83  (-) Balance is $816.0 (Transaction ID: 168)
+*** Flagged Transaction - Withdrawal by WT8 in excess of $83 USD
+Agent WT7 withdraws $18  (-) Balance is $798.0 (Transaction ID: 169)
+Agent WT2 withdraws $24  (-) Balance is $774.0 (Transaction ID: 170)
+Agent WT5 withdraws $72  (-) Balance is $702.0 (Transaction ID: 171)
+Agent WT10 withdraws $88  (-) Balance is $614.0 (Transaction ID: 172)
+*** Flagged Transaction - Withdrawal by WT10 in excess of $88 USD
+Agent WT7 withdraws $75  (-) Balance is $539.0 (Transaction ID: 173)
+Agent WT9 withdraws $44  (-) Balance is $495.0 (Transaction ID: 174)
+Agent WT2 withdraws $68  (-) Balance is $427.0 (Transaction ID: 175)
+Agent WT6 withdraws $31  (-) Balance is $396.0 (Transaction ID: 176)
+Agent WT7 withdraws $65  (-) Balance is $331.0 (Transaction ID: 177)
+Agent WT3 withdraws $27  (-) Balance is $304.0 (Transaction ID: 178)
+Agent WT1 withdraws $24  (-) Balance is $280.0 (Transaction ID: 179)
+Agent WT4 withdraws $67  (-) Balance is $213.0 (Transaction ID: 180)
+Agent WT9 withdraws $93  (-) Balance is $120.0 (Transaction ID: 181)
+*** Flagged Transaction - Withdrawal by WT9 in excess of $93 USD
+Agent WT8 withdraws $27  (-) Balance is $93.0 (Transaction ID: 182)
+Agent WT1 withdraws $76  (-) Balance is $17.0 (Transaction ID: 183)
+*** Flagged Transaction - Withdrawal by WT1 in excess of $76 USD
+Agent WT4 withdraws $37  (-) Balance is $17.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT9 withdraws $44  (-) Balance is $17.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $17.0   Number of transactions since last Internal audit is: 20
+*************************************************************************************************************
+Agent WT5 withdraws $64  (-) Balance is $17.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT10 withdraws $54  (-) Balance is $17.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT2 withdraws $7  (-) Balance is $10.0 (Transaction ID: 184)
+Agent WT1 withdraws $78  (-) Balance is $10.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $10.0   Number of transactions since last Internal audit is: 1
+*************************************************************************************************************
+Agent WT7 withdraws $29  (-) Balance is $10.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT4 withdraws $2  (-) Balance is $8.0 (Transaction ID: 185)
+Agent WT6 withdraws $22  (-) Balance is $8.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $8.0   Number of transactions since last Internal audit is: 1
+*************************************************************************************************************
+Agent WT3 withdraws $98  (-) Balance is $8.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent DT1 deposits $348   (+) Balance is $356.0 (Transaction ID: 186)
+Agent WT6 withdraws $59  (-) Balance is $297.0 (Transaction ID: 187)
+Agent WT9 withdraws $67  (-) Balance is $230.0 (Transaction ID: 188)
+Agent WT7 withdraws $39  (-) Balance is $191.0 (Transaction ID: 189)
+Agent WT7 withdraws $33  (-) Balance is $158.0 (Transaction ID: 190)
+Agent WT8 withdraws $19  (-) Balance is $139.0 (Transaction ID: 191)
+Agent WT2 withdraws $58  (-) Balance is $81.0 (Transaction ID: 192)
+Agent WT5 withdraws $26  (-) Balance is $55.0 (Transaction ID: 193)
+Agent WT8 withdraws $92  (-) Balance is $55.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $55.0   Number of transactions since last Internal audit is: 8
+*************************************************************************************************************
+Agent WT1 withdraws $22  (-) Balance is $33.0 (Transaction ID: 194)
+Agent WT6 withdraws $25  (-) Balance is $8.0 (Transaction ID: 195)
+Agent WT8 withdraws $99  (-) Balance is $8.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT6 withdraws $70  (-) Balance is $8.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT10 withdraws $2  (-) Balance is $6.0 (Transaction ID: 196)
+Agent WT4 withdraws $73  (-) Balance is $6.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT2 withdraws $17  (-) Balance is $6.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT5 withdraws $75  (-) Balance is $6.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT10 withdraws $7  (-) Balance is $6.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT9 withdraws $66  (-) Balance is $6.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT2 withdraws $45  (-) Balance is $6.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT3 withdraws $33  (-) Balance is $6.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT7 withdraws $34  (-) Balance is $6.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent WT6 withdraws $57  (-) Balance is $6.0 (*****) WITHDRAWAL BLOCKED INSUFFICIENT FUNDS!!!
+Agent DT2 deposits $376   (+) Balance is $382.0 (Transaction ID: 197)
+*** Flagged Transaction - Deposit by DT2 in excess of $376 USD
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $382.0   Number of transactions since last Internal audit is: 4
+*************************************************************************************************************
+Agent WT6 withdraws $29  (-) Balance is $353.0 (Transaction ID: 198)
+Agent WT5 withdraws $41  (-) Balance is $312.0 (Transaction ID: 199)
+Agent DT5 deposits $113   (+) Balance is $425.0 (Transaction ID: 200)
+Agent DT4 deposits $204   (+) Balance is $629.0 (Transaction ID: 201)
+Agent WT2 withdraws $86  (-) Balance is $543.0 (Transaction ID: 202)
+*** Flagged Transaction - Withdrawal by WT2 in excess of $86 USD
+Agent WT7 withdraws $6  (-) Balance is $537.0 (Transaction ID: 203)
+Agent DT2 deposits $352   (+) Balance is $889.0 (Transaction ID: 204)
+*** Flagged Transaction - Deposit by DT2 in excess of $352 USD
+Agent DT3 deposits $404   (+) Balance is $1293.0 (Transaction ID: 205)
+*** Flagged Transaction - Deposit by DT3 in excess of $404 USD
+Agent DT2 deposits $39   (+) Balance is $1332.0 (Transaction ID: 206)
+Agent WT10 withdraws $38  (-) Balance is $1294.0 (Transaction ID: 207)
+Agent DT1 deposits $488   (+) Balance is $1782.0 (Transaction ID: 208)
+*** Flagged Transaction - Deposit by DT1 in excess of $488 USD
+Agent WT9 withdraws $9  (-) Balance is $1773.0 (Transaction ID: 209)
+Agent WT4 withdraws $26  (-) Balance is $1747.0 (Transaction ID: 210)
+Agent WT8 withdraws $44  (-) Balance is $1703.0 (Transaction ID: 211)
+Agent WT1 withdraws $66  (-) Balance is $1637.0 (Transaction ID: 212)
+Agent WT4 withdraws $84  (-) Balance is $1553.0 (Transaction ID: 213)
+*** Flagged Transaction - Withdrawal by WT4 in excess of $84 USD
+Agent WT2 withdraws $17  (-) Balance is $1536.0 (Transaction ID: 214)
+Agent WT9 withdraws $82  (-) Balance is $1454.0 (Transaction ID: 215)
+*** Flagged Transaction - Withdrawal by WT9 in excess of $82 USD
+Agent WT4 withdraws $34  (-) Balance is $1420.0 (Transaction ID: 216)
+Agent WT1 withdraws $42  (-) Balance is $1378.0 (Transaction ID: 217)
+Agent WT6 withdraws $97  (-) Balance is $1281.0 (Transaction ID: 218)
+*** Flagged Transaction - Withdrawal by WT6 in excess of $97 USD
+Agent WT6 withdraws $50  (-) Balance is $1231.0 (Transaction ID: 219)
+Agent WT3 withdraws $12  (-) Balance is $1219.0 (Transaction ID: 220)
+Agent WT10 withdraws $11  (-) Balance is $1208.0 (Transaction ID: 221)
+Agent WT9 withdraws $14  (-) Balance is $1194.0 (Transaction ID: 222)
+Agent WT5 withdraws $11  (-) Balance is $1183.0 (Transaction ID: 223)
+Agent WT7 withdraws $68  (-) Balance is $1115.0 (Transaction ID: 224)
+Agent WT9 withdraws $73  (-) Balance is $1042.0 (Transaction ID: 225)
+Agent WT10 withdraws $68  (-) Balance is $974.0 (Transaction ID: 226)
+Agent WT4 withdraws $53  (-) Balance is $921.0 (Transaction ID: 227)
+Agent WT8 withdraws $46  (-) Balance is $875.0 (Transaction ID: 228)
+Agent WT2 withdraws $62  (-) Balance is $813.0 (Transaction ID: 229)
+Agent WT6 withdraws $86  (-) Balance is $727.0 (Transaction ID: 230)
+*** Flagged Transaction - Withdrawal by WT6 in excess of $86 USD
+Agent WT6 withdraws $43  (-) Balance is $684.0 (Transaction ID: 231)
+Agent WT6 withdraws $51  (-) Balance is $633.0 (Transaction ID: 232)
+Agent DT2 deposits $465   (+) Balance is $1098.0 (Transaction ID: 233)
+*** Flagged Transaction - Deposit by DT2 in excess of $465 USD
+Agent WT1 withdraws $56  (-) Balance is $1042.0 (Transaction ID: 234)
+Agent WT5 withdraws $71  (-) Balance is $971.0 (Transaction ID: 235)
+Agent WT5 withdraws $82  (-) Balance is $889.0 (Transaction ID: 236)
+*** Flagged Transaction - Withdrawal by WT5 in excess of $82 USD
+Agent WT6 withdraws $99  (-) Balance is $790.0 (Transaction ID: 237)
+*** Flagged Transaction - Withdrawal by WT6 in excess of $99 USD
+Agent WT10 withdraws $36  (-) Balance is $754.0 (Transaction ID: 238)
+Agent WT3 withdraws $33  (-) Balance is $721.0 (Transaction ID: 239)
+Agent WT2 withdraws $7  (-) Balance is $714.0 (Transaction ID: 240)
+Agent WT5 withdraws $58  (-) Balance is $656.0 (Transaction ID: 241)
+Agent WT2 withdraws $90  (-) Balance is $566.0 (Transaction ID: 242)
+*** Flagged Transaction - Withdrawal by WT2 in excess of $90 USD
+Agent WT8 withdraws $96  (-) Balance is $470.0 (Transaction ID: 243)
+*** Flagged Transaction - Withdrawal by WT8 in excess of $96 USD
+Agent WT9 withdraws $69  (-) Balance is $401.0 (Transaction ID: 244)
+Agent WT4 withdraws $48  (-) Balance is $353.0 (Transaction ID: 245)
+Agent DT1 deposits $430   (+) Balance is $783.0 (Transaction ID: 246)
+*** Flagged Transaction - Deposit by DT1 in excess of $430 USD
+Agent WT5 withdraws $42  (-) Balance is $741.0 (Transaction ID: 247)
+Agent WT6 withdraws $21  (-) Balance is $720.0 (Transaction ID: 248)
+Agent WT7 withdraws $56  (-) Balance is $664.0 (Transaction ID: 249)
+Agent WT10 withdraws $85  (-) Balance is $579.0 (Transaction ID: 250)
+*** Flagged Transaction - Withdrawal by WT10 in excess of $85 USD
+Agent WT3 withdraws $26  (-) Balance is $553.0 (Transaction ID: 251)
+Agent DT5 deposits $335   (+) Balance is $888.0 (Transaction ID: 252)
+Agent DT5 deposits $348   (+) Balance is $1236.0 (Transaction ID: 253)
+Agent DT1 deposits $351   (+) Balance is $1587.0 (Transaction ID: 254)
+*** Flagged Transaction - Deposit by DT1 in excess of $351 USD
+*************************************************************************************************************
+INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $1587.0   Number of transactions since last Internal audit is: 57
+*************************************************************************************************************
+Agent WT1 withdraws $45  (-) Balance is $1542.0 (Transaction ID: 255)
+Agent WT8 withdraws $80  (-) Balance is $1462.0 (Transaction ID: 256)
+*** Flagged Transaction - Withdrawal by WT8 in excess of $80 USD
+Agent WT10 withdraws $76  (-) Balance is $1386.0 (Transaction ID: 257)
+*** Flagged Transaction - Withdrawal by WT10 in excess of $76 USD
+Agent WT2 withdraws $18  (-) Balance is $1368.0 (Transaction ID: 258)
+Agent DT4 deposits $213   (+) Balance is $1581.0 (Transaction ID: 259)
+Agent WT8 withdraws $86  (-) Balance is $1495.0 (Transaction ID: 260)
+*** Flagged Transaction - Withdrawal by WT8 in excess of $86 USD
+Agent WT5 withdraws $75  (-) Balance is $1420.0 (Transaction ID: 261)
+Agent WT7 withdraws $50  (-) Balance is $1370.0 (Transaction ID: 262)
+Agent WT10 withdraws $87  (-) Balance is $1283.0 (Transaction ID: 263)
+*** Flagged Transaction - Withdrawal by WT10 in excess of $87 USD
+Agent WT2 withdraws $70  (-) Balance is $1213.0 (Transaction ID: 264)
+Agent DT1 deposits $88   (+) Balance is $1301.0 (Transaction ID: 265)
+Agent WT3 withdraws $23  (-) Balance is $1278.0 (Transaction ID: 266)
+Agent WT9 withdraws $98  (-) Balance is $1180.0 (Transaction ID: 267)
+*** Flagged Transaction - Withdrawal by WT9 in excess of $98 USD
+Agent WT4 withdraws $38  (-) Balance is $1142.0 (Transaction ID: 268)
+Agent WT6 withdraws $23  (-) Balance is $1119.0 (Transaction ID: 269)
